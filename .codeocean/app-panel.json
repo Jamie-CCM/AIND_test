@@ -1,5 +1,11 @@
 {
 	"version": 1,
+	"datasets": [
+		{
+			"id": "8a2361fd-c2f5-45a4-a669-d11cf0f7a28a",
+			"name": "test - adding data asset"
+		}
+	],
 	"parameters": [
 		{
 			"id": "zUMMtgLYw8SKH12f",
