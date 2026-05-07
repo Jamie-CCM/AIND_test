@@ -1,0 +1,11 @@
+{
+	"version": 1,
+	"parameters": [
+		{
+			"id": "zUMMtgLYw8SKH12f",
+			"name": "test",
+			"type": "text",
+			"value_type": "string"
+		}
+	]
+}
